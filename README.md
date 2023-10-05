@@ -2,9 +2,10 @@
 
 Olá, seja bem vindo(a)!
 
-Meu nome é Lucas Ramalho, atuo como Analytics Engineer e Sr BI Developer, sou formado em Big Data e Inteligência Competitiva, atuo com dados desde 2021, possuo sólida experiência em diferentes segmentos, como Varejo, Logística, Indústria e Tecnologia.
+Meu nome é Lucas Ramalho, atuo como Senior Data Analyst e Analytics Engineer, sou formado em Big Data e Inteligência Competitiva, possuo sólida experiência em diferentes segmentos como: Varejo, Logística, Indústria e Tecnologia.
 
-Hoje, atuo no Grupo BBM, um dos principais operadores logísticos do Mercosul, entregando soluções em dados para apoiar a tomada de decisão de toda a companhia, minha rotina consiste em trabalhar para Projetar, Desenvolver, Implementar e Manter Soluções em dados, bem como Desenvolver Pipelines de ETL/ELT, sempre optando pela Otimização de Desempenho e Escalabilidade.
+Atuo no desenvolvimento de soluções em dados para apoiar a tomada de decisão e melhorar o desempenho dos negócios ao utilizar os dados de forma eficiente e estratégica.
+Forte experiência em Manipulação de dados, Pipelines de ETL, Modelagem de dados, Qualidade de dados, Documentação Técnica e Visualização de dados.
 
 Ferramentas:
 
@@ -14,7 +15,7 @@ Ferramentas:
 
   - Data Warehouse: AWS Redshift, Google BigQuery e Snowflake.
 
-  - ETL/ELT: Azure Data Factory, Dbt, Python (Pandas) e Pentaho Data Integration.
+  - ETL/ELT: Dbt, e Pentaho Data Integration e Python (Pandas).
 
   - Versionamento: GitHub e GitLab.
 
