@@ -5,6 +5,7 @@ Olá, seja bem vindo(a)!
 Meu nome é Lucas Ramalho, atuo como Senior Data Analyst e Analytics Engineer, sou formado em Big Data e Inteligência Competitiva, possuo sólida experiência em diferentes segmentos como: Varejo, Logística, Indústria e Tecnologia.
 
 Atuo no desenvolvimento de soluções em dados para apoiar a tomada de decisão e melhorar o desempenho dos negócios ao utilizar os dados de forma eficiente e estratégica.
+
 Forte experiência em Manipulação de dados, Pipelines de ETL, Modelagem de dados, Qualidade de dados, Documentação Técnica e Visualização de dados.
 
 Ferramentas:
