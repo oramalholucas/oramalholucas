@@ -2,11 +2,11 @@
 
 Olá, seja bem vindo(a)!
 
-Meu nome é Lucas Ramalho, atuo como Senior Data Analyst e Analytics Engineer, sou formado em Big Data e Inteligência Competitiva, possuo sólida experiência em diferentes segmentos como: Varejo, Logística, Indústria e Tecnologia.
+Meu nome é Lucas Ramalho e atuo como Analista de dados Sênior, sou formado em Analytics, Big Data e Inteligência Competitiva, possuo forte background no segmento Logístico, mas também já atuei em diferentes segmentos como Indústria, Varejo e Tecnologia.
 
-Atuo no desenvolvimento de soluções em dados para apoiar a tomada de decisão e melhorar o desempenho dos negócios ao utilizar os dados de forma eficiente e estratégica.
+Atuo desenvolvendo soluções em dados desde de 2021 e já concluí mais de 800 horas de capacitação, atuei com vários projetos em diferentes segmentos de negócio, gerando economia, aumento de receita e proporcionando maior assertividade na tomada de decisão, focando na melhoria de desempenho dos negócios ao utilizar os dados de forma eficiente e estratégica.
 
-Forte experiência em Manipulação de dados, Pipelines de ETL, Modelagem de dados, Qualidade de dados, Documentação Técnica e Visualização de dados.
+Possuo forte experiência com Automação de processos, Análise de dados, Manipulação de dados, Fluxos de Extração, Transformação e Carga de dados (ETL), Modelagem de dados, Qualidade de dados, Documentação Técnica e Visualização de dados, sempre optando pela Otimização de Desempenho e Escalabilidade.
 
 Ferramentas:
 
@@ -20,7 +20,7 @@ Ferramentas:
 
   - Versionamento: GitHub e GitLab.
 
-  - Visualização de Dados: Microsoft Power BI, Looker Studio, noções de Qlik Sense e Tableau.
+  - Visualização de Dados: Microsoft Power BI, Looker Studio (Data Studio), noções de Qlik Sense e Tableau.
 
 Fique a vontade para se conectar nas redes sociais:
 
